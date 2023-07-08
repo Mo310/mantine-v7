@@ -1,6 +1,7 @@
 import React from 'react';
-import { UnstyledButton } from './UnstyledButton';
+
 import { MantineThemeProvider } from '../../core';
+import { UnstyledButton } from './UnstyledButton';
 
 export default { title: 'UnstyledButton' };
 

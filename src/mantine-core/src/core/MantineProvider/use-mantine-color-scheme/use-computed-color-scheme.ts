@@ -1,5 +1,6 @@
 import { useColorScheme, UseMediaQueryOptions } from '@mantine/hooks';
-import { useMantineColorScheme } from './use-mantine-color-scheme';
+
+import { useMantineColorScheme } from './react-use-mantine-color-scheme';
 
 export function useComputedColorScheme(
   defaultValue: 'light' | 'dark',

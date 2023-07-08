@@ -1,5 +1,6 @@
+import { render, tests } from '@mantine/tests';
 import React from 'react';
-import { tests, render } from '@mantine/tests';
+
 import { UnstyledButton, UnstyledButtonProps, UnstyledButtonStylesNames } from './UnstyledButton';
 
 const defaultProps: UnstyledButtonProps = {};

@@ -1,7 +1,8 @@
-import React from 'react';
 import { renderHook } from '@testing-library/react';
+import React from 'react';
+
 import { MantineProvider } from '../MantineProvider';
-import { useMantineColorScheme } from './use-mantine-color-scheme';
+import { useMantineColorScheme } from './react-use-mantine-color-scheme';
 
 function Wrapper({ children }: { children: React.ReactNode }) {
   return <MantineProvider defaultColorScheme="dark">{children}</MantineProvider>;

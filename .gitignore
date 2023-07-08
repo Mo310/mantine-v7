@@ -42,3 +42,5 @@ src/*/styles.css
 v7-app-dir
 v7-vite
 v7-pages-dir
+
+svelte-playground

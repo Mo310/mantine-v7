@@ -134,6 +134,7 @@
     "rollup-plugin-node-externals": "^2.2.0",
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-visualizer": "^5.5.0",
+    "sass": "^1.63.6",
     "simple-git": "^2.39.0",
     "storybook-css-modules": "^1.0.8",
     "storybook-dark-mode": "^2.1.1",
@@ -180,6 +181,7 @@
     "react-textarea-autosize": "8.3.4",
     "react-transition-group": "4.4.2",
     "stylis-plugin-rtl": "^2.1.1",
+    "svelte": "^4.0.5",
     "tslib": "^2.5.2",
     "type-fest": "^3.6.1",
     "zod": "^3.13.4"
